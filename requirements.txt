@@ -3,7 +3,7 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-tensorflow
+tensorflow==2.13.0
 tensorboard
 streamlit
 protobuf==3.20.3
